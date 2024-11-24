@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Mas Endut!</h1>
+<h1 align="center">👋 Hi there, I'm MEY LESTARI!</h1>
 <p align="center">
   <em>Web Developer & Aspiring Game Designer</em>
 </p>
